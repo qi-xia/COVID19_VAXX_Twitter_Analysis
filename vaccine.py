@@ -56,6 +56,8 @@ from itertools import islice
 #nltk.download()
 from keras.preprocessing import sequence
 
+#test
+
 cachedStopWords = stopwords.words('english')
 dictionary = dict.fromkeys(words.words(), None)
 
